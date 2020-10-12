@@ -1,0 +1,22 @@
+Cát Huy Thành - FX01399
+Môn CSD201x_01_VN Cấu trúc dữ liệu và giải thuật
+Project 2: Hệ thống quản lý hàng tồn kho
+JDK version: 13 (13.0.1)
+IDE: eclipse(ver 4.14.0)
+
+1. Cài đặt chương trình:
+	- Chạy công cụ eclipse.
+	- Import file project (File -> Open Projects from file System)
+2. Chạy chương trình:
+	- Tab Project Explorer -> file project CSD201x-A3 
+	-> file src ->default pagkage, run file Main.java
+	- Menu:
+		1. Insert a new product
+		2. In-order traverse
+		3. Breadth first  traverse
+		4. Search by a product code
+		5. Delete by a product code
+		6. Balance tree
+		7. Number of product
+		8. Save all product
+		9. Exit
